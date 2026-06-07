@@ -1,0 +1,147 @@
+[
+  {
+    "id": "pre",
+    "name": "공공기관 온비드 사전 생성서류",
+    "range": "1~10",
+    "roles": [
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Basic",
+      "Standard",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "attach",
+    "name": "온비드 공고 첨부용 서류",
+    "range": "11~20",
+    "roles": [
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Basic",
+      "Standard",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "joint",
+    "name": "공동·대리입찰 관련 서류",
+    "range": "21~30",
+    "roles": [
+      "partner",
+      "admin"
+    ],
+    "plans": [
+      "Standard",
+      "Plus",
+      "Gold",
+      "Admin"
+    ]
+  },
+  {
+    "id": "internal",
+    "name": "기관 내부보고서",
+    "range": "31~40",
+    "roles": [
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Standard",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "room",
+    "name": "참여방·입찰준비 서류",
+    "range": "41~50",
+    "roles": [
+      "partner",
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Basic",
+      "Standard",
+      "Plus",
+      "Gold",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "workbid",
+    "name": "자원잇다 내부 작업입찰 서류",
+    "range": "51~66",
+    "roles": [
+      "partner",
+      "enterprise",
+      "admin"
+    ],
+    "plans": [
+      "Basic",
+      "Standard",
+      "Plus",
+      "Gold",
+      "ESG Plus",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "post",
+    "name": "낙찰 후 사후관리 서류",
+    "range": "67~78",
+    "roles": [
+      "partner",
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Plus",
+      "Gold",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "report",
+    "name": "자원순환·성과보고 서류",
+    "range": "79~88",
+    "roles": [
+      "enterprise",
+      "agency",
+      "admin"
+    ],
+    "plans": [
+      "Standard",
+      "ESG Plus",
+      "Pro",
+      "Enterprise",
+      "Admin"
+    ]
+  },
+  {
+    "id": "audit",
+    "name": "관리자·감사용 서류",
+    "range": "89~98",
+    "roles": [
+      "admin"
+    ],
+    "plans": [
+      "Admin"
+    ]
+  }
+]

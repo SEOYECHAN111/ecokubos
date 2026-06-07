@@ -1,0 +1,20 @@
+[
+  {
+    "title": "자원잇다 보호서류는 요금제별로 제공됩니다.",
+    "date": "____.__.__",
+    "file": "notice-policy.pdf",
+    "kind": "공지"
+  },
+  {
+    "title": "기관용 AI 서류 자동작성 베타 운영 안내",
+    "date": "____.__.__",
+    "file": "agency-ai-guide.docx",
+    "kind": "가이드"
+  },
+  {
+    "title": "업체 자격 확인자료 제출 기준 안내",
+    "date": "____.__.__",
+    "file": "partner-qualification.hwp",
+    "kind": "자료"
+  }
+]
